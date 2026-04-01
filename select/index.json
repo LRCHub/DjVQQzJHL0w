@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "Call out",
+  "base_artist": "夜の本気ダンス",
+  "createdAt": "2026-04-01T08:39:11.096978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call Out",
+      "artist": "AJ",
+      "has_synced": false,
+      "path": "select/01_Call_Out_AJ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call Out The Dogs - Live",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/02_Call_Out_The_Dogs_-_Live_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call Out The Dogs",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/03_Call_Out_The_Dogs_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call Out the Warning",
+      "artist": "Fifth Angel",
+      "has_synced": false,
+      "path": "select/04_Call_Out_the_Warning_Fifth_Angel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/05_Call_Out_My_Name_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/06_Call_Out_My_Name_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/07_Call_Out_My_Name_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_Call_Out_My_Name_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CALL OUT (obli Remix)",
+      "artist": "BRONSON",
+      "has_synced": true,
+      "path": "select/09_CALL_OUT_(obli_Remix)_BRONSON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zira (Call Out My Name)",
+      "artist": "Redd Kross",
+      "has_synced": true,
+      "path": "select/10_Zira_(Call_Out_My_Name)_Redd_Kross.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rain 2005 (Call Out Hook)",
+      "artist": "Breaking Benjamin",
+      "has_synced": false,
+      "path": "select/11_Rain_2005_(Call_Out_Hook)_Breaking_Benjamin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Call Out",
+      "artist": "For the Fallen Dreams",
+      "has_synced": true,
+      "path": "select/12_The_Call_Out_For_the_Fallen_Dreams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Call Out My Name - A Cappella",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/13_Call_Out_My_Name_-_A_Cappella_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "Zwol",
+      "has_synced": false,
+      "path": "select/14_Call_Out_My_Name_Zwol.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/15_Call_Out_My_Name_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/16_Call_Out_My_Name_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_Call_Out_My_Name_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Call of the Wild",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/18_The_Call_of_the_Wild_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Call It Off",
+      "artist": "Tegan and Sara feat. CHVRCHES",
+      "has_synced": true,
+      "path": "select/19_Call_It_Off_Tegan_and_Sara_feat._CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Call It Off",
+      "artist": "Tegan and Sara, CHVRCHES",
+      "has_synced": true,
+      "path": "select/20_Call_It_Off_Tegan_and_Sara,_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Warning Call (From \"Mirror's Edge Catalyst\")",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/21_Warning_Call_(From__Mirror's_Edge_Catalyst_)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Warning Call",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/22_Warning_Call_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Warning Call (Theme From Mirror’s Edge Catalyst)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/23_Warning_Call_(Theme_From_Mirror’s_Edge_Catalyst)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Above And Beyond (The Call Of Love)",
+      "artist": "Rodney Crowell",
+      "has_synced": true,
+      "path": "select/24_Above_And_Beyond_(The_Call_Of_Love)_Rodney_Crowell.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Above And Beyond (The Call Of Love) (Album Version)",
+      "artist": "Rodney Crowell",
+      "has_synced": true,
+      "path": "select/25_Above_And_Beyond_(The_Call_Of_Love)_(Album_Version)_Rodney_Crowell.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Call Me",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/26_Call_Me_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Call Me Country",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/27_Call_Me_Country_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Call Me the Breeze",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/28_Call_Me_the_Breeze_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Call on Me",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/29_Call_on_Me_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Cattle Call",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/30_Cattle_Call_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Don't Call Him A Cowboy",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/31_Don't_Call_Him_A_Cowboy_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Here's A Quarter [Call Someone Who Cares]",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/32_Here's_A_Quarter_[Call_Someone_Who_Cares]_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Here's a Quarter (Call Someone Who Cares)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/33_Here's_a_Quarter_(Call_Someone_Who_Cares)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Here's a Quarter (Call Someone Who Cares) (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/34_Here's_a_Quarter_(Call_Someone_Who_Cares)_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "I Don't Call Him Daddy",
+      "artist": "Doug Supernaw",
+      "has_synced": true,
+      "path": "select/35_I_Don't_Call_Him_Daddy_Doug_Supernaw.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Just Call Me Lonesome",
+      "artist": "Radney Foster",
+      "has_synced": true,
+      "path": "select/36_Just_Call_Me_Lonesome_Radney_Foster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call out",
+      "artist": "夜の本気ダンス",
+      "has_synced": false,
+      "path": "select/pl_01_Call_out_夜の本気ダンス.txt"
+    }
+  ]
+}
